@@ -11,6 +11,15 @@ In this assignment, you will be learning more about `git` and `GitHub` by workin
     ```
 
 4. Stage, commit and push the repo
+
+![image](https://github.com/sabarevasan/git/assets/137091627/f8e9ef6f-0f62-443e-8f41-a9b42b5958f5)
+
+![image](https://github.com/sabarevasan/git/assets/137091627/4ecea03f-c06a-4c42-87f6-6192fdce86b3)
+
+![image](https://github.com/sabarevasan/git/assets/137091627/269f77b5-eba8-4c04-bf88-f41b4fbe4584)
+
+![image](https://github.com/sabarevasan/git/assets/137091627/ef6d30eb-3487-412e-ab4a-32e71b089b84)
+
 5. Create a new branch called `assignment`
 6. In your `README.md`, answer the following questions:
     
@@ -30,12 +39,16 @@ In this assignment, you will be learning more about `git` and `GitHub` by workin
 
     > h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the `main` branch?
     
+    ANSWERS HERE: `https://github.com/sabarevasan/git_assignment/blob/assignment/README.md`
+    
 
 Feel free to at any point (recommended after answering every 2 questions) to stage, commit and push your work to GitHub. It is a great way to practice using `git`!
 
 1. When you are done, please stage, commit your changes, and push it to GitHub.
 2. Open up a pull request.
 3. Write down in your pull request what you learned from this assignment. ([Guidelines for Pull Request Descriptions](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions))
+
+   PR HERE: https://github.com/sabarevasan/git_assignment/pull/1
 
 ## Criteria
 
